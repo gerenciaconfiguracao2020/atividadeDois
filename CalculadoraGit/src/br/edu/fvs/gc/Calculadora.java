@@ -11,7 +11,7 @@ package br.edu.fvs.gc;
  */
 public class Calculadora {
     
-    public int somar(int a, int b){
-        return a+b;
+    public int somar(int a, int c){
+        return a+c;
     }
 }
