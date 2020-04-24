@@ -10,8 +10,14 @@ package br.edu.fvs.gc;
  * @author Luciano
  */
 public class Calculadora {
+
     
-    public int somar(int a, int c){
-        return a+c;
+    public int subtrair(int a, int b){
+        return a-b;
     }
+
+    public int somar(int a, int b){
+        return a+b;
+    }
+
 }
